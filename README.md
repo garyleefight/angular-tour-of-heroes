@@ -6,20 +6,7 @@ Super simple Angular app with 1 module and 2 routes. This is a minor variation o
 ```
 git clone https://github.com/johnpapa/angular-tour-of-heroes.git toh
 cd toh
-npm i
-```
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+npm iasdsadbuild artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
 
 ## Running unit tests
 
